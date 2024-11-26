@@ -18,7 +18,7 @@
             <div class="d-flex justify-content-center justify-content-md-start" id="poster1-btn">
                 <a href="/users/signup?ssrc=product_home" class="btn btn-primary" data-ga='["home page","body cta","join community",null,null]'>Sign up</a>
                 <a href="/questions" class="btn btn-outline-light">
-                    Visit community
+                    Community
                     <svg aria-hidden="true" class="svg-icon iconArrowRightAltSm ms-2" width="13" height="14" viewBox="0 0 13 14"><path d="m4.38 4.62 1.24-1.24L9.24 7l-3.62 3.62-1.24-1.24L6.76 7z"></path></svg>
                 </a>
             </div>
