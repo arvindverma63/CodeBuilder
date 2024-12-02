@@ -1,0 +1,46 @@
+:root {
+    --mdb-primary-color: #3b71ca; /* Set your primary color */
+    --mdb-btn-bg: #3b71ca;
+    --mdb-btn-color: #fff;
+    --mdb-btn-box-shadow: 0 4px 9px -4px #386bc0;
+    --mdb-btn-hover-bg: #386bc0;
+    --mdb-btn-hover-color: #fff;
+    --mdb-btn-focus-bg: #386bc0;
+    --mdb-btn-focus-color: #fff;
+    --mdb-btn-active-bg: #3566b6;
+    --mdb-btn-active-color: #fff;
+    --mdb-btn-box-shadow-state: 0 8px 9px -4px rgba(56, 107, 192, 0.3), 0 4px 18px 0 rgba(56, 107, 192, 0.2);
+}
+
+.side-container{
+    width: 20%;
+    padding: 10px;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+
+.sidebar-list{
+    list-style: none;
+    padding: 10px;
+}
+
+.sidebar-list li{
+    padding: 7px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.sidebar-list li:hover{
+    background-color: var(--mdb-primary-color) !important;
+    border-color: var(--mdb-primary-color) !important;
+    color: white;
+    border-radius: 8px;
+}
+
+.active{
+    background-color: var(--mdb-primary-color) !important;
+    border-color: var(--mdb-primary-color) !important;
+    color: white;
+    border-radius: 8px;
+    box-shadow: 1.4px 1.4px 1.4px #3b71ca;
+}
