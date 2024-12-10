@@ -15,7 +15,9 @@
                 <li>Service</li>
                 <li>Contact</li>
                 <li>Arvind</li>
-                <li>Verma</li>
+                <li><a class="btn text-white" data-mdb-ripple-init style="background-color: #dd4b39;" href="#!" role="button">
+                    <i class="fab fa-google"></i>
+                  </a></li>
             </ul>
         </div>
     </div>
