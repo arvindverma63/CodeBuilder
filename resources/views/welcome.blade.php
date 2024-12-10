@@ -73,6 +73,7 @@
                     <p>Add Your <strong>First</strong> Post</p>
                     <p><br /></p>
                 </div>
+                <button class="btn btn-primary m-0">Submit</button>
             </div>
         </div>
     </div>
