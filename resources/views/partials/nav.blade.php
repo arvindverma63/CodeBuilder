@@ -15,9 +15,7 @@
                 <li>Service</li>
                 <li>Contact</li>
                 <li>Arvind</li>
-                <li><a class="btn text-white" data-mdb-ripple-init style="background-color: #dd4b39;" href="#!" role="button">
-                    <i class="fab fa-google"></i>
-                  </a></li>
+                <li><button type="button" class="btn btn-dark" data-mdb-ripple-init><i class="fa-brands fa-google"></i> Google</button></li>
             </ul>
         </div>
     </div>
