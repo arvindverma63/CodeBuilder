@@ -112,7 +112,7 @@
 }
 .sidenav .nav-container {
     padding: 4px;
-    height: 100vh;
+    height: auto;
     width: 300px;
     margin-top: 10%;
 }

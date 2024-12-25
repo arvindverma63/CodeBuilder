@@ -23,12 +23,6 @@
                     <li>Php</li>
                     <li>Laravel</li>
                     <li>Mongodb</li>
-                    <li>Mydql</li>
-                    <li>Database</li>
-                    <li>Laravel</li>
-                    <li>Mongodb</li>
-                    <li>Mydql</li>
-                    <li>Database</li>
                 </ul>
             </div>
         </div>
